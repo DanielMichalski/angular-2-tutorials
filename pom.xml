@@ -12,6 +12,7 @@
     <modules>
         <module>section-1-getting-started</module>
         <module>section-2-components-templates-databinding</module>
+        <module>section-3-components-and-databinding-project</module>
     </modules>
 
 </project>
