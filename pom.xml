@@ -16,6 +16,7 @@
         <module>section-2-components-templates-databinding</module>
         <module>section-3-components-and-databinding-project</module>
         <module>section-4-directives</module>
+        <module>section-5-services</module>
     </modules>
 
 </project>
