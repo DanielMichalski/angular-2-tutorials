@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>section-5-services</artifactId>
+    <artifactId>section-6-routing</artifactId>
 
-    <name>Angular 2 :: 5. Services</name>
+    <name>Angular 2 :: 6. Routing</name>
 
 </project>

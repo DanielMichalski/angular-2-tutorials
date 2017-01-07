@@ -17,6 +17,7 @@
         <module>section-3-components-and-databinding-project</module>
         <module>section-4-directives</module>
         <module>section-5-services</module>
+        <module>section-6-routing</module>
     </modules>
 
 </project>
